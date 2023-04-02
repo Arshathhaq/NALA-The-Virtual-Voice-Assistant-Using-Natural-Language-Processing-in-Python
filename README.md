@@ -13,6 +13,7 @@ webbrowser , pyautogui ,etc.).
 • Features :Easy configuration of system can be done.Example commands like (”Set
 Alarm at Time HH:MM” , ”What is the Meaning of ’The Word’ ” , ”What is the Weather
 ?” , ”Search ’something’ in browser ” , etc).
+It is combinations of small python applications programs like mp3 player , alarm , weather application , and Gmail stuff like that.
 
 
 • Software used : Visual Studio Code.
