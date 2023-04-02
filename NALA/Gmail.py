@@ -27,7 +27,7 @@ from NALA import Speech
 
 # Request all access (permission to read/send/receive emails, manage the inbox, and more)
 SCOPES = ['https://mail.google.com/']
-your_email = "jarvisassistant50@gmail.com"
+your_email = ""
 
 
 def gmail_authenticate():
