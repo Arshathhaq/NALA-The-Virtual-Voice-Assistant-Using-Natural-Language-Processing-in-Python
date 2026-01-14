@@ -221,7 +221,7 @@ class Tasks:
             city_name = city
             print(city_name)
         # Enter your API key here
-        api_key = "b10b7b5f4a799532bdd05b3153b212e6"
+        api_key = ""
 
         # base_url variable to store url
         base_url = "http://api.openweathermap.org/data/2.5/weather?"
@@ -443,4 +443,5 @@ if __name__ =='__main__':
     while True:
         ExecutionTasks(input())
          
+
         
